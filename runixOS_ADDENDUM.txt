@@ -1,0 +1,143 @@
+Rovel Stars Product Addendum: RunixOS
+Version: 1.0
+Applies To: RunixOS and its official distributions
+Reference License: Rovel Stars Software License (RSSL) v1.0
+──────────────────────────────────────────────────────────────────────────────
+NOTICE
+──────────────────────────────────────────────────────────────────────────────
+This Addendum supplements the Rovel Stars Software License (RSSL) v1.0 and
+applies specifically to RunixOS. It governs the usage, redistribution,
+partner participation, and enterprise deployment of RunixOS in all forms,
+including open-source, community, enterprise, and server editions.
+
+In case of any inconsistency between this Addendum and RSSL, this Addendum
+shall control for RunixOS-related matters.
+
+──────────────────────────────────────────────────────────────────────────────
+1. PRODUCT DESCRIPTION
+──────────────────────────────────────────────────────────────────────────────
+RunixOS is an operating system developed and maintained by Rovel Stars. It
+includes a mix of open-source components under RSSL and other compatible
+licenses, as well as proprietary system applications and utilities distributed
+in binary form.
+
+──────────────────────────────────────────────────────────────────────────────
+2. ADDITIONAL DEFINITIONS
+──────────────────────────────────────────────────────────────────────────────
+2.1 “RunixOS Editions” means the variants distributed by Rovel Stars, including
+     RunixOS Desktop, RunixOS Server, RunixOS Enterprise, and RunixOS Partner
+     Editions.
+2.2 “Partner” or “Company” means any OEM, organization, or business entity
+     authorized by Rovel Stars to distribute or customize RunixOS under a
+     certified program.
+2.3 “Bulk/Enterprise Consumer” means an organization or individual that
+     purchases multiple installation rights or devices preloaded with RunixOS
+     for internal use.
+2.4 “Official Update Channel” means the digital infrastructure operated by
+     Rovel Stars or an approved Partner through which verified updates,
+     patches, or releases for RunixOS are distributed.
+2.5 “Closed-Source / Proprietary Module” means any Rovel Stars system
+     application, service, driver, or binary distributed with RunixOS that is
+     not provided in source form and remains Rovel Stars’ intellectual property.
+
+──────────────────────────────────────────────────────────────────────────────
+3. DISTRIBUTION & REDISTRIBUTION POLICY
+──────────────────────────────────────────────────────────────────────────────
+3.1 Non-Commercial Redistribution.  
+     Users may download, use, and redistribute the open-source portions of
+     RunixOS for personal, educational, or research purposes, including modified
+     or forked versions, provided that:
+     - All modifications are clearly documented;
+     - Attribution to Rovel Stars is preserved; and
+     - The product name and branding are not used in a way that misrepresents
+       official endorsement.
+
+3.2 Commercial and Enterprise Redistribution.  
+     Commercial redistribution of RunixOS or its Derivative Works is prohibited
+     unless authorized under a Partner or Enterprise agreement with Rovel Stars.
+     Bulk/Enterprise Consumers may install the official closed-source RunixOS
+     on multiple owned devices after purchasing valid deployment licenses.
+
+3.3 Partner Distributions.  
+     Partners and OEMs may preinstall or distribute RunixOS under written
+     agreement. Partners must not modify or redistribute Rovel Stars’
+     proprietary modules, except as approved through the official Partner
+     Certification process.
+
+──────────────────────────────────────────────────────────────────────────────
+4. CLOSED-SOURCE / PROPRIETARY MODULES
+──────────────────────────────────────────────────────────────────────────────
+4.1 RunixOS includes proprietary Rovel Stars system applications, frameworks,
+     services, and components that are not open source.
+4.2 These components may be used but not modified or redistributed separately.
+4.3 Rovel Stars retains all rights, title, and interest in such proprietary
+     modules.
+
+──────────────────────────────────────────────────────────────────────────────
+5. PARTNERS AND OEM DISTRIBUTORS
+──────────────────────────────────────────────────────────────────────────────
+5.1 Partners may introduce visual or functional customizations (“skins” or
+     “variants”) with Rovel Stars’ written approval. Such modifications must
+     maintain software quality and security standards set by Rovel Stars.
+5.2 Partners must not modify official Rovel Stars system applications or
+     services unless explicitly permitted.
+5.3 Partners are issued signing keys for their update files. All Partner
+     update packages must be submitted privately to Rovel Stars for integrity
+     review and approval prior to release on their respective update channels.
+5.4 Rovel Stars reserves the right to recall or disable updates that violate
+     these policies or pose quality, legal, or security risks.
+5.5 Partners are strictly prohibited from adding third-party advertisements,
+     telemetry, or scripts that collect personal data without user consent.
+5.6 Partners must not require constant internet connectivity for local system
+     features without a justified technical reason.
+
+──────────────────────────────────────────────────────────────────────────────
+6. PRIVACY, TELEMETRY, AND USER CONSENT
+──────────────────────────────────────────────────────────────────────────────
+6.1 RunixOS will never collect personal data or transmit identifiable
+     information without explicit consent.
+6.2 Any telemetry (performance, stability, or diagnostic data) is opt-in and
+     can be fully disabled.
+6.3 Partners and distributors are required to comply with all relevant data
+     protection laws and this Addendum’s privacy rules.
+
+──────────────────────────────────────────────────────────────────────────────
+7. FEES, LICENSING, AND COMMERCIAL USE
+──────────────────────────────────────────────────────────────────────────────
+7.1 Rovel Stars may offer paid RunixOS editions, such as Enterprise or Server,
+     for internal commercial use (e.g., website hosting or paid services).
+     Users may use RunixOS Server Edition for commercial hosting or service
+     purposes but may not redistribute it.
+7.2 Enterprise licensing fees are one-time or yearly and non-refundable,
+     except where Rovel Stars voluntarily grants a waiver or credit.
+7.3 Rovel Stars reserves the right to increase or introduce prices or licensing
+     fees for any RunixOS product, edition, or service at any time.
+
+──────────────────────────────────────────────────────────────────────────────
+8. SECURITY AND UPDATE CHANNELS
+──────────────────────────────────────────────────────────────────────────────
+8.1 Rovel Stars signs and distributes all official RunixOS updates using secure
+     cryptographic keys. Users are advised to verify digital signatures.
+8.2 Updates distributed via Partner channels must be reviewed and approved by
+     Rovel Stars before public release.
+8.3 Rovel Stars may revoke update keys, suspend Partner update access, or recall
+     any update that violates quality or policy standards.
+8.4 Users must be able to easily disable automatic downloads or installations.
+
+──────────────────────────────────────────────────────────────────────────────
+9. TERMINATION OR SUSPENSION
+──────────────────────────────────────────────────────────────────────────────
+9.1 Rovel Stars may revoke Partner certification or Enterprise licenses for
+     violations of this Addendum or the RSSL.
+9.2 Rovel Stars may block or disable access to official update channels for
+     users, devices, or partners found in material breach of this Addendum.
+
+──────────────────────────────────────────────────────────────────────────────
+10. GOVERNANCE
+──────────────────────────────────────────────────────────────────────────────
+Only Rovel Stars may amend, withdraw, or republish this Addendum. Any attempted
+modification or redefinition by third parties, Forks, or distributors is void.
+
+──────────────────────────────────────────────────────────────────────────────
+END OF RUNIXOS PRODUCT ADDENDUM
+──────────────────────────────────────────────────────────────────────────────
