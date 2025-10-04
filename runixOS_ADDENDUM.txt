@@ -33,17 +33,28 @@ in binary form.
 2.3 “Bulk/Enterprise Consumer” means an organization or individual that
      purchases multiple installation rights or devices preloaded with RunixOS
      for internal use.
-2.4 “Official Update Channel” means the digital infrastructure operated by
-     Rovel Stars or an approved Partner through which verified updates,
-     patches, or releases for RunixOS are distributed.
-2.5 “Closed-Source / Proprietary Module” means any Rovel Stars system
+2.4 "Update Channel" means any digital infrastructure operated by anyone,
+     including Rovel Stars or a Partner, through which updates, patches, or
+     releases for RunixOS are distributed.
+2.5 “Official Update Channel” means the digital infrastructure ONLY operated
+     by Rovel Stars through which official RunixOS updates are distributed.
+     Partners have no authority to operate Official Update Channels. They may
+     only distribute updates via Rovel Stars-approved Partner channels.
+2.6 “Closed-Source / Proprietary Module” means any Rovel Stars system
      application, service, driver, or binary distributed with RunixOS that is
      not provided in source form and remains Rovel Stars’ intellectual property.
+2.7 "User" means any individual or entity that downloads, installs, uses, or
+     accesses RunixOS or any of its editions.
+2.8 "Personal Data" means any information relating to an identified or
+     identifiable natural person, as defined by applicable data protection laws.
+2.9 "Telemetry" means any data collected automatically by software about its
+     usage, performance, or environment, which may include system information,
+     error reports, or user interactions.
 
 ──────────────────────────────────────────────────────────────────────────────
 3. DISTRIBUTION & REDISTRIBUTION POLICY
 ──────────────────────────────────────────────────────────────────────────────
-3.1 Non-Commercial Redistribution.  
+3.1 Non-Commercial Redistribution.
      Users may download, use, and redistribute the open-source portions of
      RunixOS for personal, educational, or research purposes, including modified
      or forked versions, provided that:
@@ -52,13 +63,13 @@ in binary form.
      - The product name and branding are not used in a way that misrepresents
        official endorsement.
 
-3.2 Commercial and Enterprise Redistribution.  
+3.2 Commercial and Enterprise Redistribution.
      Commercial redistribution of RunixOS or its Derivative Works is prohibited
      unless authorized under a Partner or Enterprise agreement with Rovel Stars.
      Bulk/Enterprise Consumers may install the official closed-source RunixOS
      on multiple owned devices after purchasing valid deployment licenses.
 
-3.3 Partner Distributions.  
+3.3 Partner Distributions.
      Partners and OEMs may preinstall or distribute RunixOS under written
      agreement. Partners must not modify or redistribute Rovel Stars’
      proprietary modules, except as approved through the official Partner

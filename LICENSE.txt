@@ -41,7 +41,7 @@ Copyright © 2025 Rovel Stars and contributors. All rights reserved.
     translation, enhancement, or other work derived from the Software or any
     part of it, including redistribution in Source Code or Object Code form.
 
-1.9 "Product Addendum" means a supplemental, product-specific set of terms
+1.9 "Product Addendum" or "Addendum" means a supplemental, product-specific set of terms
     published by Rovel Stars that modifies or supplements this RSSL for a
     particular product. A Product Addendum is identified by product name and
     version and is published in association with that product.
@@ -79,6 +79,19 @@ Copyright © 2025 Rovel Stars and contributors. All rights reserved.
      or the date the User first obtains or uses the Software that references
      this license (whichever is earlier).
 
+1.18 "Distribution" means any form of making the Software available to third parties,
+     whether by sale, gift, sharing, hosting, or other means, including
+     redistribution in Source Code or Object Code form.
+
+1.19 "Fork" or "Derivative Work" means any copy, modification, adaptation,
+     translation, enhancement, or other work derived from the Software or any
+     part of it, including redistribution in Source Code or Object Code form.
+
+1.20 "Repository" or "repo" means any online or offline storage location,
+     including version control systems, where the Source Code or Object Code
+     of the Software is maintained, shared, or distributed.
+
+
 ──────────────────────────────────────────────────────────────────────────────
 2. SCOPE AND APPLICABILITY
 ──────────────────────────────────────────────────────────────────────────────
@@ -98,7 +111,8 @@ Copyright © 2025 Rovel Stars and contributors. All rights reserved.
     Contributor License Agreement (CLA) or comparable agreement executed by
     the contributor. Use of this License text by third parties for unrelated
     projects does not create any affiliation, endorsement, or liability on
-    the part of Rovel Stars.
+    the part of Rovel Stars. All Contributions accepted are licensed under
+    this RSSL and any applicable Product Addendum.
 
 2.4 In the event of a conflict between the terms of this RSSL and any
     applicable Product Addendum or Third-Party License, the Product Addendum
@@ -173,22 +187,76 @@ Copyright © 2025 Rovel Stars and contributors. All rights reserved.
 ──────────────────────────────────────────────────────────────────────────────
 5. CONTRIBUTIONS AND CONTRIBUTOR LICENSE AGREEMENT (CLA)
 ──────────────────────────────────────────────────────────────────────────────
-5.1 By submitting a Contribution, the Contributor represents and warrants
-    that they have the legal right to do so and that the Contribution is
-    their original work or is lawfully licensed for submission.
 
-5.2 Grant. Each Contributor grants Rovel Stars and its affiliates a perpetual,
-    worldwide, non-exclusive, royalty-free, transferable license to use,
-    reproduce, modify, distribute, sublicense, and relicense the Contribution
-    as part of the Software under this RSSL or any successor license Rovel
-    Stars may publish.
+5.1 By submitting a Contribution, the Contributor represents and warrants that:
+    (a) they are the sole author of the Contribution or have obtained all rights,
+    consents, and permissions necessary to grant the rights and licenses set
+    forth in this Section 5;
+    (b) the Contribution is original to the Contributor or is otherwise lawfully
+    licensed for submission; and
+    (c) the Contribution does not violate any law, does not infringe any
+    third-party intellectual property or moral rights, and does not contain
+    malware, backdoors, or other intentionally harmful code.
 
-5.3 Patent Grant; Termination on Litigation. Each Contributor grants a
-    perpetual, royalty-free patent license to Rovel Stars and recipients of
-    the Software to the extent necessary to use the Contribution. If a
-    Contributor initiates or participates in patent litigation alleging that
-    the Software infringes a patent held by the Contributor, the Contributor's
-    patent license and rights under this RSSL terminate automatically.
+5.2 Subject to the terms of this RSSL, each Contributor hereby grants Rovel Stars
+    and its affiliates, successors, licensees, and assigns a perpetual,
+    irrevocable, worldwide, non-exclusive, royalty-free, transferable,
+    sublicensable license to:
+    (a) use, reproduce, copy, modify, prepare derivative works of, publicly
+    display, publicly perform, distribute, and otherwise exploit the Contribution;
+    and
+    (b) incorporate the Contribution in whole or in part into the Software
+    and to license or relicense the resulting work under RSSL, any successor
+    license, or any other license chosen by Rovel Stars (including proprietary or
+    dual-licensing arrangements).
+
+5.3 Each Contributor hereby grants to Rovel Stars and to recipients of the
+    Software a perpetual, worldwide, non-exclusive, royalty-free license under
+    any patent claims that are necessarily infringed by the Contributor's
+    Contribution to make, have made, use, offer to sell, sell, import, and
+    otherwise distribute and exploit the Contribution alone or as part of
+    the Software. If a Contributor (or any entity controlled by, controlling,
+    or under common control with the Contributor) initiates, assists,
+    or participates in any patent litigation asserting that the Software or any
+    Contribution infringes a patent owned or licensed by the Contributor, then the
+    patent license granted in this Section 5.3 (to the extent it applies to the patent
+    claims asserted) shall terminate automatically and without notice.
+
+5.4 To the fullest extent permitted by law, the Contributor irrevocably waives
+    (or agrees not to assert) any moral rights or similar rights in the
+    Contribution that would interfere with the rights granted in this Section 5. The
+    Contributor consents to reasonable attribution of authorship and copyright notices
+    by Rovel Stars in source code, documentation, or other materials where such attribution
+    customarily appears.
+
+5.5 Third-Party Materials and Compatible Licensing. If a Contribution contains or is
+    derived from third‑party code, the Contributor must disclose the origin, provide
+    copies of any applicable third-party licenses, and confirm that those materials may
+    be redistributed under terms compatible with this RSSL or with any additional Product
+    Addendum identified by Rovel Stars. Rovel Stars may refuse, remove, or require
+    remediation of Contributions that contain incompatible third‑party materials.
+
+5.6 Rovel Stars may, at its discretion, require execution of a written Contributor
+    License Agreement (CLA), Developer Certificate of Origin (DCO), assignment,
+    or other agreement as a    condition to accepting or merging a Contribution.
+    Acceptance of a Contribution by Rovel Stars is effective only when the
+    Contribution is explicitly accepted, merged, or otherwise included in an
+    official Rovel Stars codebase in accordance with the project's contribution
+    policy and any required agreement has been executed.
+
+5.7 The Contributor agrees to defend, indemnify, and hold harmless Rovel Stars,
+    its officers, directors, employees, agents, licensees, and other contributors
+    from and against all claims, liabilities, damages, losses, and expenses
+    (including reasonable attorneys' fees) arising out of or in connection with
+    any breach of the representations, warranties, or obligations in this Section
+    5, including third-party claims of infringement or breach of contract
+    resulting from the Contribution. This indemnity obligation survives any 
+    termination of the Contributor's rights under this RSSL.
+
+5.8 The representations, warranties, licenses, indemnities, and other
+    obligations in this Section 5 survive any acceptance, rejection, or removal of
+    a Contribution and survive termination of this RSSL to the extent necessary to
+    give effect to their intent.
 
 ──────────────────────────────────────────────────────────────────────────────
 6. THIRD-PARTY COMPONENTS AND LICENSE COMPATIBILITY
@@ -343,17 +411,36 @@ Copyright © 2025 Rovel Stars and contributors. All rights reserved.
 ──────────────────────────────────────────────────────────────────────────────
 15. DISPUTE RESOLUTION AND ARBITRATION
 ──────────────────────────────────────────────────────────────────────────────
-15.1 The parties shall first attempt to resolve any dispute arising out of
-     or relating to this License through good-faith electronic communication.
+15.1 The parties shall first attempt to resolve any dispute arising out of or
+     relating to this License through good-faith electronic communication for
+     a period of thirty (30) days from the date a party provides written
+     notice of the dispute.
 
-15.2 If a dispute is not resolved within sixty (60) days, it shall be
-     submitted to confidential, binding arbitration seated in New Delhi, India,
-     under the Arbitration and Conciliation Act, 1996, and administered under
-     rules selected by Rovel Stars. The arbitration shall be conducted in English.
+15.2 If the dispute is not resolved within thirty (30) days of the notice
+     under Section 15.1, the dispute shall be submitted to non-binding
+     arbitration conducted via a recognized virtual Alternative Dispute
+     Resolution (ADR) platform agreed upon by the parties. The parties
+     shall make a good-faith effort to select the ADR platform; if no
+     agreement is reached within seven (7) days, Rovel Stars may select
+     the platform.
 
-15.3 Nothing in this Section prevents Rovel Stars from seeking injunctive or
-     other equitable relief in a court of competent jurisdiction to protect
-     its intellectual property or confidentiality rights.
+15.3 If the dispute is not resolved within sixty (60) days of the notice
+     under Section 15.1, the dispute shall be submitted to confidential,
+     binding arbitration seated in New Delhi, India, under the Arbitration
+     and Conciliation Act, 1996. The arbitration shall be conducted in English
+     and administered according to the arbitration rules selected by Rovel
+     Stars from a recognized arbitration institution (e.g., SIAC, ICC, LCIA).
+     The arbitrator(s) shall have the authority to grant all remedies
+     available under applicable law, including injunctive relief.
+
+15.4 Nothing in this Section shall prevent Rovel Stars from seeking injunctive,
+     provisional, or other equitable relief in a court of competent jurisdiction
+     to protect its intellectual property rights or confidentiality obligations,
+     either before, during, or after the arbitration process.
+
+15.5 All proceedings, documents, evidence, and outcomes related to Sections
+     15.2 and 15.3 shall be strictly confidential, except as necessary to
+     enforce any arbitration award or seek remedies under Section 15.4.
 
 ──────────────────────────────────────────────────────────────────────────────
 16. MISCELLANEOUS
