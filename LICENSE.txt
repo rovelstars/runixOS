@@ -63,10 +63,11 @@ Copyright © 2025 Rovel Stars and contributors. All rights reserved.
      works to be distributed under substantially the same license terms as
      the original component.
 
-1.14 "Commercial Use" means any use of the Software to generate revenue, to
-     provide services or software to third parties for consideration, to
-     bundle or sell the Software as part of a paid product, or to operate
-     hosted services (SaaS) or commercial hosting using the Software.
+1.14 "Commercial Use" means any redistribution, resale, or external service
+     provision using the Software to generate revenue or consideration.
+     Purely internal business or organizational use without redistribution
+     does not constitute Commercial Use under this License.
+
 
 1.15 "Telemetry" means diagnostic, usage, performance, crash, or similar
      data collected by the Software about its operation or the environment
@@ -83,11 +84,7 @@ Copyright © 2025 Rovel Stars and contributors. All rights reserved.
      whether by sale, gift, sharing, hosting, or other means, including
      redistribution in Source Code or Object Code form.
 
-1.19 "Fork" or "Derivative Work" means any copy, modification, adaptation,
-     translation, enhancement, or other work derived from the Software or any
-     part of it, including redistribution in Source Code or Object Code form.
-
-1.20 "Repository" or "repo" means any online or offline storage location,
+1.19 "Repository" or "repo" means any online or offline storage location,
      including version control systems, where the Source Code or Object Code
      of the Software is maintained, shared, or distributed.
 
@@ -119,6 +116,16 @@ Copyright © 2025 Rovel Stars and contributors. All rights reserved.
     or the Third-Party License (as applicable) shall govern to the extent
     of the inconsistency for the subject matter in question.
 
+2.5 Clarification of Scope.
+    This License applies only to original works authored by Rovel Stars that
+    are expressly distributed under the RSSL.  Third-party software,
+    dependencies, or components used alongside or within Rovel Stars projects
+    remain governed solely by their respective licenses.  RSSL does not
+    modify, supersede, or extend to such external works.
+    A summary of included third-party components and their licenses is provided
+    in the file THIRD_PARTY_LICENSES.md or equivalent documentation.
+
+
 ──────────────────────────────────────────────────────────────────────────────
 3. GRANT OF RIGHTS
 ──────────────────────────────────────────────────────────────────────────────
@@ -143,8 +150,10 @@ Copyright © 2025 Rovel Stars and contributors. All rights reserved.
 
 3.3 Restrictions. Unless expressly authorized by a written agreement with
     Rovel Stars or by an applicable Product Addendum:
-    (a) Redistribution or distribution of Derivative Works for Commercial Use,
-        Partner programs, or Enterprise redistribution is prohibited;
+    (a) Redistribution or external distribution of Derivative Works for
+        Commercial Use, Partner programs, or Enterprise redistribution is
+        prohibited; however, internal business or organizational use without
+        external distribution is permitted;
     (b) Users may not remove, alter, or obscure Rovel Stars trademarks,
         logos, or notices; and
     (c) Users shall not use the Software to produce works that misrepresent
@@ -165,14 +174,14 @@ Copyright © 2025 Rovel Stars and contributors. All rights reserved.
         Addendum(s) in the redistributed package; and
     (d) clearly document all substantive changes made.
 
-4.2 License Continuity. All Forks and Derivative Works of Rovel Stars-authored
-    components must remain licensed under RSSL. This requirement propagates
-    to subsequent Forks and Derivative Works (i.e., the reciprocal/viral
+4.2 All Forks and Derivative Works of Rovel Stars-authored components must
+    remain licensed under RSSL. This requirement propagates to subsequent
+    Forks and Derivative Works (i.e., the reciprocal/viral
     effect for Rovel Stars-authored components).
 
-4.3 Commercial Restriction for Derivatives. Derivative Works and Forks may
-    not be used for Commercial Use, Partner programs, or Enterprise
-    redistribution without an express, written license from Rovel Stars.
+4.3 Derivative Works and Forks may not be redistributed or offered for external
+    Commercial Use, Partner programs, or Enterprise redistribution without an
+     express, written license from Rovel Stars. Internal or personal use is allowed.
 
 4.4 Trademark and Branding. Forks and Derivative Works must not use or
     display Rovel Stars trademarks, service marks, product names, or logos
@@ -322,6 +331,10 @@ Copyright © 2025 Rovel Stars and contributors. All rights reserved.
 9.3 Fees paid for commercial programs, certifications, or enterprise licenses
     are non-refundable unless Rovel Stars elects otherwise in writing.
 
+9.4 Fees apply only to optional paid editions, enterprise programs, or
+    services explicitly designated as such. Community and open-source
+    distributions released under RSSL remain royalty-free unless otherwise stated.
+
 ──────────────────────────────────────────────────────────────────────────────
 10. WARRANTY DISCLAIMER AND LIMITATION OF LIABILITY
 ──────────────────────────────────────────────────────────────────────────────
@@ -346,10 +359,9 @@ Copyright © 2025 Rovel Stars and contributors. All rights reserved.
 ──────────────────────────────────────────────────────────────────────────────
 11. TERMINATION
 ──────────────────────────────────────────────────────────────────────────────
-11.1 This License terminates automatically and without notice if you breach
-     any material term of this License, including failure to comply with the
-     copyleft obligations in Section 4, or if you initiate patent litigation
-     against Rovel Stars or its contributors concerning the Software.
+11.1 If you breach any material term of this License, Rovel Stars may provide
+     written notice and a thirty (30) day period to cure such breach. Failure
+     to cure within that period will automatically terminate this License.
 
 11.2 Upon termination, you must immediately: (a) cease distribution of the
      Software and any Derivative Works; (b) remove or disable access to binaries
@@ -382,7 +394,7 @@ Copyright © 2025 Rovel Stars and contributors. All rights reserved.
      amend, or withdraw Product Addendum(s). No third party, Fork author, or
      downstream distributor may modify, replace, or append new terms to an
      existing Product Addendum. Any such attempted modification is void and
-     without effect.
+     without effect unless expressly authorized in writing by Rovel Stars.
 
 ──────────────────────────────────────────────────────────────────────────────
 13. EXPORT CONTROL AND COMPLIANCE

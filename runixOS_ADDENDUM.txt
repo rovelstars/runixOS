@@ -62,18 +62,20 @@ in binary form.
      - Attribution to Rovel Stars is preserved; and
      - The product name and branding are not used in a way that misrepresents
        official endorsement.
-
 3.2 Commercial and Enterprise Redistribution.
      Commercial redistribution of RunixOS or its Derivative Works is prohibited
      unless authorized under a Partner or Enterprise agreement with Rovel Stars.
      Bulk/Enterprise Consumers may install the official closed-source RunixOS
      on multiple owned devices after purchasing valid deployment licenses.
-
 3.3 Partner Distributions.
      Partners and OEMs may preinstall or distribute RunixOS under written
      agreement. Partners must not modify or redistribute Rovel Stars’
      proprietary modules, except as approved through the official Partner
      Certification process.
+3.4 Internal Business Use.
+     Use of RunixOS internally within an organization for production,
+     hosting, or development purposes (without external redistribution)
+     is considered non-commercial under this Addendum.
 
 ──────────────────────────────────────────────────────────────────────────────
 4. CLOSED-SOURCE / PROPRIETARY MODULES
@@ -83,6 +85,9 @@ in binary form.
 4.2 These components may be used but not modified or redistributed separately.
 4.3 Rovel Stars retains all rights, title, and interest in such proprietary
      modules.
+4.4 A list of proprietary components and modules covered by this section
+     shall be published within the RunixOS repository or accompanying
+     documentation to aid compliance.
 
 ──────────────────────────────────────────────────────────────────────────────
 5. PARTNERS AND OEM DISTRIBUTORS
@@ -95,6 +100,8 @@ in binary form.
 5.3 Partners are issued signing keys for their update files. All Partner
      update packages must be submitted privately to Rovel Stars for integrity
      review and approval prior to release on their respective update channels.
+     A Partner update review and submission shall comply with all applicable
+     export-control and data-transfer laws in their jurisdictions.
 5.4 Rovel Stars reserves the right to recall or disable updates that violate
      these policies or pose quality, legal, or security risks.
 5.5 Partners are strictly prohibited from adding third-party advertisements,
@@ -123,6 +130,9 @@ in binary form.
      except where Rovel Stars voluntarily grants a waiver or credit.
 7.3 Rovel Stars reserves the right to increase or introduce prices or licensing
      fees for any RunixOS product, edition, or service at any time.
+7.4 This Section overrides Section 3.3(a) of the RSSL to the extent that
+     it permits commercial internal use of RunixOS Server or Enterprise
+     editions under valid licenses.
 
 ──────────────────────────────────────────────────────────────────────────────
 8. SECURITY AND UPDATE CHANNELS
@@ -134,6 +144,8 @@ in binary form.
 8.3 Rovel Stars may revoke update keys, suspend Partner update access, or recall
      any update that violates quality or policy standards.
 8.4 Users must be able to easily disable automatic downloads or installations.
+8.5 No automatic update or remote code execution shall occur without
+     explicit user consent, except where required for critical security fixes.
 
 ──────────────────────────────────────────────────────────────────────────────
 9. TERMINATION OR SUSPENSION
@@ -148,7 +160,3 @@ in binary form.
 ──────────────────────────────────────────────────────────────────────────────
 Only Rovel Stars may amend, withdraw, or republish this Addendum. Any attempted
 modification or redefinition by third parties, Forks, or distributors is void.
-
-──────────────────────────────────────────────────────────────────────────────
-END OF RUNIXOS PRODUCT ADDENDUM
-──────────────────────────────────────────────────────────────────────────────
